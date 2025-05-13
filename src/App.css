@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 2em;
+}
+.question {
+  margin-bottom: 2em;
+}
+button {
+  padding: 1em;
+  margin: 0.5em;
+  font-size: 1.2em;
+}
