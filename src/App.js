@@ -33,23 +33,23 @@ function App() {
     <><div className="App">
       <h1>ロボット体験のアンケート</h1>
       <Question
-        label="1. ロボットの声の聞き取りやすさはどうでしたか？"
+        label="1. ロボットとの対話体験はどうでしたか？"
         name="q1"
-        options={["全然聞こえなかった", "少し聞こえなかった", "どちらでもない", "聞き取りやすかった", "とても聞き取りやすかった"]}
+        options={["非常に不快だった", "不快だった", "ふつう", "快適だった", "非常に快適だった"]}
         onSelect={handleAnswer}
         selected={selected}
       />
       <Question
-        label="2. ロボットとの対話は快適でしたか？"
+        label="2. ロボットの声の音量はいかがでしたか？"
         name="q2"
-        options={["全然快適でなかった", "快適でなかった", "どちらでもない", "快適だった", "とても快適だった"]}
+        options={["非常に聞こえにくかった", "少し聞こえにくかった", "ちょうどよかった", "少しうるさかった", "非常にうるさかった"]}
         onSelect={handleAnswer}
         selected={selected}
       />
       <Question
-        label="3. 友達にもこのロボットを使ってもらいたいですか？"
+        label="3. ロボットの声の速さはいかがでしたか？"
         name="q3"
-        options={["全然そう思わない", "そう思わない", "どちらでもない", "そう思う", "とてもそう思う"]}
+        options={["非常に速すぎた", "速かった", "ちょうどよかった", "遅かった", "非常に遅かった"]}
         onSelect={handleAnswer}
         selected={selected}
       />
