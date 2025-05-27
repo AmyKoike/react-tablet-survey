@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-tablet-survey/static/css/main.edbc7f63.css",
+    "main.css": "/react-tablet-survey/static/css/main.bc14c127.css",
     "main.js": "/react-tablet-survey/static/js/main.1b2effcd.js",
     "index.html": "/react-tablet-survey/index.html",
-    "main.edbc7f63.css.map": "/react-tablet-survey/static/css/main.edbc7f63.css.map",
+    "main.bc14c127.css.map": "/react-tablet-survey/static/css/main.bc14c127.css.map",
     "main.1b2effcd.js.map": "/react-tablet-survey/static/js/main.1b2effcd.js.map"
   },
   "entrypoints": [
-    "static/css/main.edbc7f63.css",
+    "static/css/main.bc14c127.css",
     "static/js/main.1b2effcd.js"
   ]
 }
