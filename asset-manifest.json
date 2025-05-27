@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-tablet-survey/static/css/main.9ac71638.css",
-    "main.js": "/react-tablet-survey/static/js/main.5fcfb11e.js",
+    "main.css": "/react-tablet-survey/static/css/main.1df081da.css",
+    "main.js": "/react-tablet-survey/static/js/main.1b2effcd.js",
     "index.html": "/react-tablet-survey/index.html",
-    "main.9ac71638.css.map": "/react-tablet-survey/static/css/main.9ac71638.css.map",
-    "main.5fcfb11e.js.map": "/react-tablet-survey/static/js/main.5fcfb11e.js.map"
+    "main.1df081da.css.map": "/react-tablet-survey/static/css/main.1df081da.css.map",
+    "main.1b2effcd.js.map": "/react-tablet-survey/static/js/main.1b2effcd.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ac71638.css",
-    "static/js/main.5fcfb11e.js"
+    "static/css/main.1df081da.css",
+    "static/js/main.1b2effcd.js"
   ]
 }
